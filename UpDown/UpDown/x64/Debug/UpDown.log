@@ -1,0 +1,4 @@
+﻿  UpDown.c
+C:\Users\qazws\Desktop\Study\C\UpDown\UpDown\UpDown.c(15,8): warning C4244: '함수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\qazws\Desktop\Study\C\UpDown\UpDown\UpDown.c(37,3): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  UpDown.vcxproj -> C:\Users\qazws\Desktop\Study\C\UpDown\x64\Debug\UpDown.exe

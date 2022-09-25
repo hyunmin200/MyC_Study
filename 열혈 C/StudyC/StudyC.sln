@@ -1,0 +1,41 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32825.248
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "_12_1_포인터란_무엇인가", "_12_1_포인터란_무엇인가\_12_1_포인터란_무엇인가.vcxproj", "{AB455210-013F-4D66-BA76-9D392B3E204C}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "_12_2_포인터와 _관련_있는_연산자", "_12_2_포인터와 _관련_있는_연산자\_12_2_포인터와 _관련_있는_연산자.vcxproj", "{225BE2F7-2366-4707-85C3-3C63E63B0E76}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AB455210-013F-4D66-BA76-9D392B3E204C}.Debug|x64.ActiveCfg = Debug|x64
+		{AB455210-013F-4D66-BA76-9D392B3E204C}.Debug|x64.Build.0 = Debug|x64
+		{AB455210-013F-4D66-BA76-9D392B3E204C}.Debug|x86.ActiveCfg = Debug|Win32
+		{AB455210-013F-4D66-BA76-9D392B3E204C}.Debug|x86.Build.0 = Debug|Win32
+		{AB455210-013F-4D66-BA76-9D392B3E204C}.Release|x64.ActiveCfg = Release|x64
+		{AB455210-013F-4D66-BA76-9D392B3E204C}.Release|x64.Build.0 = Release|x64
+		{AB455210-013F-4D66-BA76-9D392B3E204C}.Release|x86.ActiveCfg = Release|Win32
+		{AB455210-013F-4D66-BA76-9D392B3E204C}.Release|x86.Build.0 = Release|Win32
+		{225BE2F7-2366-4707-85C3-3C63E63B0E76}.Debug|x64.ActiveCfg = Debug|x64
+		{225BE2F7-2366-4707-85C3-3C63E63B0E76}.Debug|x64.Build.0 = Debug|x64
+		{225BE2F7-2366-4707-85C3-3C63E63B0E76}.Debug|x86.ActiveCfg = Debug|Win32
+		{225BE2F7-2366-4707-85C3-3C63E63B0E76}.Debug|x86.Build.0 = Debug|Win32
+		{225BE2F7-2366-4707-85C3-3C63E63B0E76}.Release|x64.ActiveCfg = Release|x64
+		{225BE2F7-2366-4707-85C3-3C63E63B0E76}.Release|x64.Build.0 = Release|x64
+		{225BE2F7-2366-4707-85C3-3C63E63B0E76}.Release|x86.ActiveCfg = Release|Win32
+		{225BE2F7-2366-4707-85C3-3C63E63B0E76}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {17FC9453-A02D-4417-ACA0-C788CFA11FC3}
+	EndGlobalSection
+EndGlobal
